@@ -1,0 +1,24 @@
+{
+  "name": "pizza-express",
+  "version": "1.0.0",
+  "description": "All things pizza, the most wonderful evil food there is",
+  "main": " server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PenneyGadget/pizza-express.git"
+  },
+  "keywords": [
+    "express",
+    "pizza",
+    "yum"
+  ],
+  "author": "Penney Garrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PenneyGadget/pizza-express/issues"
+  },
+  "homepage": "https://github.com/PenneyGadget/pizza-express#readme"
+}
